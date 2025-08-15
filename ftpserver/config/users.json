@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "$2b$12$DojZTFNaIJlt9ydhx6JSxufWL3K6/nb7QNPSGYytAUpUfSedJopRe",
+      "role": "admin",
+      "permissions": []
+    },
+    {
+      "username": "namokar",
+      "password": "$2b$12$29yTED.nh5qVubNxmk7NMOMa3ubMMMKWcA1DhFHyzlNel.g9KJfNa",
+      "role": "user",
+      "permissions": [
+        "LS",
+        "PWD",
+        "CD",
+        "CAT"
+      ]
+    },
+    {
+      "username": "aditya",
+      "password": "$2b$12$XSLTbE//4OeKeUiGWot7AuJmomYKmHjrvAZ.7lf0OgUZUBkw.wdi.",
+      "role": "user",
+      "permissions": [
+        "RETR",
+        "STOR",
+        "LS",
+        "CD",
+        "MKDIR",
+        "PASV",
+        "ECHO",
+        "RETR",
+        "STOR"
+      ]
+    }
+  ]
+}
