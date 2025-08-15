@@ -127,7 +127,7 @@ Custom-FTP-Protocol/
   ```
 - **Admin: Add a user:**
   ```
-  ADDUSER bob password user
+  ADDUSER name password roll
   ```
 
 ## Testing
